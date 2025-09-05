@@ -1,0 +1,62 @@
+- Personal Information
+
+Name: Kaleb S. Newman
+School: Princeton University
+Position: 1st year PhD Student 
+Advisor: Dr. Olga Russakovsky
+Lab: Visual AI Lab
+Bio: I am a first-year Ph.D. student in Computer Science at Princeton University, where I work in the Visual AI Lab advised by Dr. Olga Russakovsky.
+My research interests lie broadly in computer vision, with a particular focus on how machines and humans internally reason about and represent the visual world.
+
+I received my Sc.B. in Computer Science from Brown University in 2025, focused in Artificial Intelligence and Visual Computing. 
+At Brown, I was fortunate to be advised by Dr. Chen Sun (https://chensun.me/) and Dr. Tomas Serre (https://serre-lab.clps.brown.edu/person/thomas-serre/), and I also spent a summer at the University of Rochester working with Dr. Zhen Bai (https://zhenbai.io/).
+
+Please feel free to reach out to chat about research or advice!
+
+- Photo
+I can add the photo myself
+
+- Links (should be clickable icons, this should already be in the template. For any link not given, don't delete, just leave unclickable)
+
+Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Uhlp6yYAAAAJ
+Email: kn3194@princeton.edu
+
+
+- News
+09/2025: Started my PhD at Princeton University 😆🚀 
+01/2025: Honorable mention for the 2025 CRA Outstanding Undergraduate Researcher Award.
+09/2024: Presented "Do Pre-Trained Vision-Language Models Encode Object States" at ECCV 2024 in the EVAL-FoMo Workshop.
+10/2023: Presented and demoed "Supporting ASL Communication Between Hearing Parents and Deaf Children" at Assets 2023.
+10/2023: Presented "Building User-Centered ASL Communication Technologies for Parent-Child Interactions" at MIT URTC; awarded Top 5 paper distinction.
+
+- Research interests
+My research interests lie broadly in computer vision, with a particular focus on how machines and humans internally reason about and represent the visual world.
+
+I work broadly in computer vision, focusing on how machines internally represent and reason about the visual world.
+
+Conceptually, I’m guided by the mental models view from cognitive science (https://www.pnas.org/doi/10.1073/pnas.1012933107) and by cognitive maps in neuroscience(https://en.wikipedia.org/wiki/Cognitive_map)—both motivating internal world representations that can be queried and updated over time.
+
+My interests are ever-developing, but currently I'm interested in video understanding, world models, and multimodal understanding.
+
+
+- Publications
+Do Pre-Trained Vision-Language Models Encode Object States.
+K. Newman*, Shijie Wang, Yuan Zang, David Heffren, Chen Sun. ECCV 2024 Workshop on Emergent Visual Abilities and Limits of Foundation Models.
+link: https://arxiv.org/abs/2409.10488
+
+Leveraging Usefulness and Autonomy: Designing AI-Mediated ASL Communication Between Hearing Parents and Deaf Children
+Yifan Li, Hecong Wang, Ekram Hossain, Madeleine Mann, Jingyan Yu, Kaleb Slater Newman, Ashley Bao, Athena Willis, Chigusa Kurumada, Wyatte C Hall, Zhen Bai
+Proceedings of the 24th Interaction Design and Children, 512-526
+link: https://dl.acm.org/doi/full/10.1145/3713043.3727054
+
+Supporting ASL Communication Between Hearing Parents and Deaf Children.
+E. Houssain, K. Newman, A. Bao, M. Mann, Y. Li, H. Wang, W. Hall, C. Kurumada, Z. Bai. ACM SIGACCESS Conference on Computers and Accessibility.
+link: https://dl.acm.org/doi/abs/10.1145/3597638.3614511 
+
+Building User-Centered ASL Communication Technologies for Parent-Child Interactions.
+A. Bao*, K. Newman*, M. Mann, E. Houssain, C. Kurumada, Z. Bai. MIT Undergraduate Research & Technology Conference 2023.
+link: https://ieeexplore.ieee.org/abstract/document/10534918 
+
+*for first author
+
+Shoutout to Jon Barron (https://github.com/jonbarron/jonbarron.github.io) for the website template!
