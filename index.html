@@ -64,9 +64,8 @@
                 <p style="text-align:center">
                   <a href="mailto:kn3194@princeton.edu">Email</a> &nbsp;/&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Uhlp6yYAAAAJ">Scholar</a> &nbsp;/&nbsp;
-                  <span style="color: #888;">CV</span> &nbsp;/&nbsp;
-                  <span style="color: #888;">Twitter</span> &nbsp;/&nbsp;
-                  <span style="color: #888;">Github</span>
+                  <a href="https://drive.google.com/file/d/1TL7NRMmwkbx6ymATlSOz5BxB12zSFRq4/view?usp=sharing">CV</a> &nbsp;/&nbsp;
+                  <a href="https://x.com/kalebnewman8">Twitter</a> &nbsp;/&nbsp;
                 </p>
               </td>
               <td style="padding:2.5%;width:48%;max-width:48%">
@@ -79,9 +78,9 @@
               <td style="padding:16px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
                 <p>
-                  My research interests lie broadly in computer vision, with a particular focus on how machines and humans internally reason about and represent the visual world.<br><br>
+                  I'm interested in how machines and humans internally reason about and represent the visual world.<br><br>
                   Conceptually, I'm guided by the <a href="https://www.pnas.org/doi/10.1073/pnas.1012933107">mental models view from cognitive science</a> and by <a href="https://en.wikipedia.org/wiki/Cognitive_map">cognitive maps in neuroscience</a>—both motivating internal world representations that can be queried and updated over time.<br><br>
-                  My interests are ever-developing, but currently I'm interested in video understanding, world models, and multimodal understanding.<br><br>
+                  My interests are ever-developing, I most recently worked on <a href="https://video-maze-reasoning.github.io/">reasoning with video models</a>. I'm also interested in world models, and multimodal understanding.<br><br>
                   Some papers are <span class="highlight">highlighted</span>.
                 </p>
               </td>
@@ -94,7 +93,8 @@
               <td style="padding:16px;width:100%;vertical-align:middle">
                 <h2>News</h2>
                 <ul>
-                  <li><strong>03/2026:</strong> New preprint: <a href="https://arxiv.org/abs/2603.30043">"Video Models Reason Early: Exploiting Early Plan Commitment for Maze Solving"</a> (<a href="https://video-maze-reasoning.github.io/">Website</a>)</li>
+                  <li><strong>07/2026:</strong> <a href="https://arxiv.org/abs/2602.17200">"GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation"</a> appeared at ICML 2026 (<a href="https://github.com/L-YeZhu/GASS_T2I">Code</a>)</li>
+                  <li><strong>06/2026:</strong> Presented <a href="https://arxiv.org/abs/2603.30043">"Video Models Reason Early: Exploiting Plan Commitment for Maze Solving"</a> at the <a href="https://videoworldmodel-workshop.github.io/">CVPR 2026 Workshop on Video World Models</a> (<a href="https://video-maze-reasoning.github.io/">Website</a>)</li>
                   <li><strong>09/2025:</strong> Started my PhD at Princeton University 😆🚀</li>
                   <li><strong>01/2025:</strong> Honorable mention for the 2025 CRA Outstanding Undergraduate Researcher Award.</li>
                   <li><strong>09/2024:</strong> Presented "Do Pre-Trained Vision-Language Models Encode Object States" at ECCV 2024 in the EVAL-FoMo Workshop.</li>
@@ -133,6 +133,35 @@
         <p></p>
         <p>
         Video diffusion models can solve reasoning tasks like mazes, but we know little about how they arrive at solutions. We show that these models commit to a plan within the first few denoising steps, after which generation mainly refines visual details rather than reasoning. Leveraging this insight, we introduce inference-time methods that reallocate compute toward early plan search, improving accuracy and enabling long-horizon reasoning.
+        </p>
+      </td>
+    </tr>
+
+    <!-- Publication: GASS (ICML 2026) -->
+    <tr>
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <img src='images/gass.png' width="200" style="border-radius: 10px;" alt="GASS - geometry-aware spherical sampling for diversity in text-to-image generation - ICML 2026">
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://arxiv.org/abs/2602.17200">
+          <span class="papertitle">GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation</span>
+        </a>
+        <br>
+        <a href="https://l-yezhu.github.io/">Ye Zhu</a>,
+        <strong>K. Newman</strong>,
+        Johannes F. Lutzeyer,
+        Adriana Romero-Soriano,
+        Michal Drozdzal,
+        <a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky</a>
+        <br>
+        <em>International Conference on Machine Learning (ICML) 2026</em>
+        <br>
+        <a href="https://arxiv.org/abs/2602.17200">arXiv</a>
+        /
+        <a href="https://github.com/L-YeZhu/GASS_T2I">code</a>
+        <p></p>
+        <p>
+        Text-to-image models capture a prompt's meaning but struggle to generate diverse images from it. We decompose diversity in CLIP embedding space into prompt-dependent and prompt-independent directions, then guide sampling to widen the spread along both, enhancing diversity with minimal impact on image fidelity and semantic alignment.
         </p>
       </td>
     </tr>
